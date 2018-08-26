@@ -4,9 +4,8 @@
 
 int main()
 {
-    for (int i = 0; i < 504; i++)
+    for (int i = 0; i < 505; i++)
     {
-        // to je local verzija
         printf("Hello beautiful world.");
         printf("Hello all back there!");
     }
