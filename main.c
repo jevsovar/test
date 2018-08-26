@@ -2,6 +2,7 @@
 
 #include <stdio>
 
+// Main loop.
 int main()
 {
     // This prints that string on screen.
